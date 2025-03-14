@@ -10,7 +10,7 @@ import time
 from omegaconf import OmegaConf
 
 import torch
-from pytorch3d.renderer import PerspectiveCameras
+#from pytorch3d.renderer import PerspectiveCameras
 
 import torch.distributed as dist
 import torch.multiprocessing as mp
