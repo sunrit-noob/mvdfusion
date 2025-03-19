@@ -77,7 +77,7 @@ dataset:
   target: dataset.shapenet.GSO
   scene_batch_size: 1
   params:
-    root: '../shapenet_images/'
+    root: '../shapenet_images/03001627/'
     subset: 'test' 
     fix_elevation: true
     sample_batch_size: 16
